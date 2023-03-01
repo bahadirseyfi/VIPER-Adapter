@@ -1,0 +1,500 @@
+{
+    "widgets": [
+        {
+            "bannerContents": [
+                {
+                    "bannerEventKey": "Interview_Singlebanner_plajinvazgecilmezleri",
+                    "displayOrder": 100,
+                    "imageUrl": "https://cdn.dsmcdn.com/marketing/widget/designers/deniztatili.jpg",
+                    "title": "Plajın Vazgeçilmezleri",
+                    "marketing": {
+                        "delphoi": {
+                            "tv067": "Interview_Singlebanner_plajinvazgecilmezleri",
+                            "tv069": "100",
+                            "tv070": "Interview_Singlebanner_plajinvazgecilmezleri",
+                            "tv072": "311246",
+                            "tv073": "BANNER",
+                            "tv097": "homepage_null"
+                        },
+                        "order": 1
+                    }
+                }
+            ],
+            "displayType": "SINGLE",
+            "eventKey": "Interview_Singlebanner_plajinvazgecilmezleri",
+            "id": 311246,
+            "type": "BANNER",
+            "displayCount": 3,
+            "displayOptions": {
+                "showProductPrice": true,
+                "showProductFavoredButton": true,
+                "showClearButton": false,
+                "showCountdown": false,
+                "showCountOnTitle": false
+            },
+            "startDate": "2020-07-01T12:02:00.000",
+            "endDate": "2024-01-08T12:03:00.000",
+            "marketing": {
+                "delphoi": {
+                    "tv070": "Interview_Singlebanner_plajinvazgecilmezleri",
+                    "tv072": "311246",
+                    "tv073": "BANNER",
+                    "tv097": "homepage_null"
+                },
+                "order": 0
+            },
+            "width": 500,
+            "height": 500,
+            "refreshRequired": false
+        },
+        {
+            "bannerContents": [
+                {
+                    "bannerEventKey": "Interview_Singlebanner_birkenstockmodasierkek",
+                    "displayOrder": 1,
+                    "imageUrl": "https://cdn.dsmcdn.com/marketing/widget/designers/birken_170518.jpg",
+                    "navigation": {
+                        "deeplink": "ty://?Brand=birkenstock&Gender=erkek",
+                        "id": 5053,
+                        "landingTitle": "Birkenstock Modası",
+                        "navigationType": "DEEPLINK",
+                        "title": "Birkenstock Modası"
+                    },
+                    "title": "Birkenstock Modası",
+                    "marketing": {
+                        "delphoi": {
+                            "tv067": "Interview_Singlebanner_birkenstockmodasierkek",
+                            "tv068": "ty://?Brand=birkenstock&Gender=erkek",
+                            "tv069": "1",
+                            "tv070": "Interview_Singlebanner_birkenstockmodasierkek",
+                            "tv072": "311371",
+                            "tv073": "BANNER",
+                            "tv097": "homepage_null"
+                        },
+                        "order": 1
+                    }
+                }
+            ],
+            "displayType": "SINGLE",
+            "eventKey": "Interview_Singlebanner_birkenstockmodasierkek",
+            "id": 311371,
+            "type": "BANNER",
+            "displayCount": 1,
+            "displayOptions": {
+                "showProductPrice": true,
+                "showProductFavoredButton": true,
+                "showClearButton": false,
+                "showCountdown": false,
+                "showCountOnTitle": false,
+                "paddingTopBottom": 20,
+                "paddingRightLeft": 20
+            },
+            "startDate": "2020-07-01T12:06:00.000",
+            "endDate": "2024-01-08T12:07:00.000",
+            "marketing": {
+                "delphoi": {
+                    "tv070": "Interview_Singlebanner_birkenstockmodasierkek",
+                    "tv072": "311371",
+                    "tv073": "BANNER",
+                    "tv097": "homepage_null"
+                },
+                "order": 0
+            },
+            "width": 500,
+            "height": 300,
+            "refreshRequired": false
+        },
+        {
+            "bannerContents": [
+                {
+                    "bannerEventKey": "Interview_bannerCarousel_sezonortasiindirim",
+                    "displayOrder": 1,
+                    "imageUrl": "https://cdn.dsmcdn.com/marketing/widget/designers/millasezonortasi_090518v2.jpg",
+                    "navigation": {
+                        "deeplink": "ty://?Gender=kadin&Brand=Trendyolmilla",
+                        "id": 9630,
+                        "landingTitle": "Sezon Ortası İndirimi",
+                        "navigationType": "DEEPLINK",
+                        "title": "Sezon Ortası İndirimi"
+                    },
+                    "marketing": {
+                        "delphoi": {
+                            "tv067": "Interview_bannerCarousel_sezonortasiindirim",
+                            "tv068": "ty://?Gender=kadin&Brand=Trendyolmilla",
+                            "tv069": "1",
+                            "tv070": "Interview_bannerCarousel_milla",
+                            "tv072": "311373",
+                            "tv073": "BANNER",
+                            "tv097": "homepage_null"
+                        },
+                        "order": 1
+                    }
+                },
+                {
+                    "bannerEventKey": "Interview_bannerCarousel_abiyeelbiseler",
+                    "displayOrder": 5,
+                    "imageUrl": "https://cdn.dsmcdn.com/marketing/widget/designers/millaparty_090518.jpg",
+                    "navigation": {
+                        "deeplink": "ty://?Gender=kadin&Search=Trendyolmilla+abiye",
+                        "id": 9634,
+                        "landingTitle": "Abiye Elbiseler",
+                        "navigationType": "DEEPLINK",
+                        "title": "Abiye Elbiseler"
+                    },
+                    "marketing": {
+                        "delphoi": {
+                            "tv067": "Interview_bannerCarousel_abiyeelbiseler",
+                            "tv068": "ty://?Gender=kadin&Search=Trendyolmilla+abiye",
+                            "tv069": "5",
+                            "tv070": "Interview_bannerCarousel_milla",
+                            "tv072": "311373",
+                            "tv073": "BANNER",
+                            "tv097": "homepage_null"
+                        },
+                        "order": 2
+                    }
+                },
+                {
+                    "bannerEventKey": "Interview_bannerCarousel_beachwear",
+                    "displayOrder": 10,
+                    "imageUrl": "https://cdn.dsmcdn.com/marketing/widget/designers/beachwear_090518.jpg",
+                    "navigation": {
+                        "deeplink": "ty://?Gender=kadin&Search=Trendyolmilla+Bikini",
+                        "id": 9636,
+                        "landingTitle": "Beachwear",
+                        "navigationType": "DEEPLINK",
+                        "title": "Beachwear"
+                    },
+                    "marketing": {
+                        "delphoi": {
+                            "tv067": "Interview_bannerCarousel_beachwear",
+                            "tv068": "ty://?Gender=kadin&Search=Trendyolmilla+Bikini",
+                            "tv069": "10",
+                            "tv070": "Interview_bannerCarousel_milla",
+                            "tv072": "311373",
+                            "tv073": "BANNER",
+                            "tv097": "homepage_null"
+                        },
+                        "order": 3
+                    }
+                },
+                {
+                    "bannerEventKey": "Interview_bannerCarousel_homewear",
+                    "displayOrder": 15,
+                    "imageUrl": "https://cdn.dsmcdn.com/marketing/widget/designers/homewear_090518.jpg",
+                    "navigation": {
+                        "deeplink": "ty://?Gender=kadin&Search=Trendyolmilla+Pijama",
+                        "id": 9638,
+                        "landingTitle": "Homewear",
+                        "navigationType": "DEEPLINK",
+                        "title": "Homewear"
+                    },
+                    "marketing": {
+                        "delphoi": {
+                            "tv067": "Interview_bannerCarousel_homewear",
+                            "tv068": "ty://?Gender=kadin&Search=Trendyolmilla+Pijama",
+                            "tv069": "15",
+                            "tv070": "Interview_bannerCarousel_milla",
+                            "tv072": "311373",
+                            "tv073": "BANNER",
+                            "tv097": "homepage_null"
+                        },
+                        "order": 4
+                    }
+                }
+            ],
+            "displayType": "CAROUSEL",
+            "eventKey": "Interview_bannerCarousel_milla",
+            "id": 311373,
+            "type": "BANNER",
+            "displayCount": 4,
+            "displayOptions": {
+                "showProductPrice": true,
+                "showProductFavoredButton": true,
+                "showClearButton": false,
+                "showCountdown": false,
+                "showCountOnTitle": false,
+                "paddingTopBottom": 20,
+                "paddingRightLeft": 20
+            },
+            "startDate": "2020-07-01T12:17:00.000",
+            "endDate": "2024-01-08T12:18:00.000",
+            "marketing": {
+                "delphoi": {
+                    "tv070": "Interview_bannerCarousel_milla",
+                    "tv072": "311373",
+                    "tv073": "BANNER",
+                    "tv097": "homepage_null"
+                },
+                "order": 0
+            },
+            "width": 500,
+            "height": 500,
+            "refreshRequired": false
+        },
+        {
+            "bannerContents": [
+                {
+                    "bannerEventKey": "Interview_bannerslider_80evaranindirim",
+                    "displayOrder": 1,
+                    "imageUrl": "https://cdn.dsmcdn.com/marketing/widget/designers/evdekorasyon_19.06_1.jpg",
+                    "navigation": {
+                        "deeplink": "ty://?Gender=kadin&Search=trendyolilla",
+                        "id": 5044,
+                        "navigationType": "DEEPLINK"
+                    },
+                    "title": "%80'e varan indirim",
+                    "marketing": {
+                        "delphoi": {
+                            "tv067": "Interview_bannerslider_80evaranindirim",
+                            "tv068": "ty://?Gender=kadin&Search=trendyolilla",
+                            "tv069": "1",
+                            "tv070": "Interview_Singlebanner_haftaninonecikanlari",
+                            "tv072": "311422",
+                            "tv073": "BANNER",
+                            "tv097": "homepage_null"
+                        },
+                        "order": 1
+                    }
+                },
+                {
+                    "bannerEventKey": "Interview_bannerslider_3al2odekargobedava",
+                    "displayOrder": 5,
+                    "imageUrl": "https://cdn.dsmcdn.com/marketing/widget/designers/annecocuk_19.06_1.jpg",
+                    "navigation": {
+                        "deeplink": "ty://?Gender=kadin&Search=sandalet",
+                        "id": 5047,
+                        "navigationType": "DEEPLINK"
+                    },
+                    "title": "3 al 2 öde & Kargo Bedava",
+                    "marketing": {
+                        "delphoi": {
+                            "tv067": "Interview_bannerslider_3al2odekargobedava",
+                            "tv068": "ty://?Gender=kadin&Search=sandalet",
+                            "tv069": "5",
+                            "tv070": "Interview_Singlebanner_haftaninonecikanlari",
+                            "tv072": "311422",
+                            "tv073": "BANNER",
+                            "tv097": "homepage_null"
+                        },
+                        "order": 2
+                    }
+                },
+                {
+                    "bannerEventKey": "Interview_bannerslider_saatler",
+                    "displayOrder": 10,
+                    "imageUrl": "https://cdn.dsmcdn.com/marketing/widget/haftaninonecikanlari/saat_160518.jpg",
+                    "navigation": {
+                        "deeplink": "ty://?Gender=kadin&Category=saat",
+                        "id": 5048,
+                        "landingTitle": "Saat",
+                        "navigationType": "DEEPLINK",
+                        "title": "Saat"
+                    },
+                    "subtitle": "Stilinin Tamamlayıcısı",
+                    "title": "Saatler",
+                    "marketing": {
+                        "delphoi": {
+                            "tv067": "Interview_bannerslider_saatler",
+                            "tv068": "ty://?Gender=kadin&Category=saat",
+                            "tv069": "10",
+                            "tv070": "Interview_Singlebanner_haftaninonecikanlari",
+                            "tv072": "311422",
+                            "tv073": "BANNER",
+                            "tv097": "homepage_null"
+                        },
+                        "order": 3
+                    }
+                },
+                {
+                    "bannerEventKey": "Interview_bannerslider_sirtcantasi",
+                    "displayOrder": 14,
+                    "imageUrl": "https://cdn.dsmcdn.com/marketing/widget/haftaninonecikanlari/sirtcantasi_160518.jpg",
+                    "navigation": {
+                        "deeplink": "ty://?Gender=kadin&Search=sirtcantasi",
+                        "id": 5054,
+                        "landingTitle": "Sırt Çantası",
+                        "navigationType": "DEEPLINK",
+                        "title": "Sırt Çantası"
+                    },
+                    "subtitle": "Her Daim Yanında",
+                    "title": "Sırt Çantası",
+                    "marketing": {
+                        "delphoi": {
+                            "tv067": "Interview_bannerslider_sirtcantasi",
+                            "tv068": "ty://?Gender=kadin&Search=sirtcantasi",
+                            "tv069": "14",
+                            "tv070": "Interview_Singlebanner_haftaninonecikanlari",
+                            "tv072": "311422",
+                            "tv073": "BANNER",
+                            "tv097": "homepage_null"
+                        },
+                        "order": 4
+                    }
+                },
+                {
+                    "bannerEventKey": "Interview_bannerslider_dugunmakyaji",
+                    "displayOrder": 30,
+                    "imageUrl": "https://cdn.dsmcdn.com/marketing/widget/haftaninonecikanlari/sacaksesuar_1605.jpg",
+                    "navigation": {
+                        "deeplink": "ty://?Gender=kadin&Category=sac-aksesuarlari",
+                        "id": 5056,
+                        "landingTitle": "Mezuniyet Elbiseleri",
+                        "navigationType": "DEEPLINK",
+                        "title": "Mezuniyet Elbiseleri"
+                    },
+                    "subtitle": "Göz Alıcı Taçlar",
+                    "title": "Düğün Aksesuarları",
+                    "marketing": {
+                        "delphoi": {
+                            "tv067": "Interview_bannerslider_dugunmakyaji",
+                            "tv068": "ty://?Gender=kadin&Category=sac-aksesuarlari",
+                            "tv069": "30",
+                            "tv070": "Interview_Singlebanner_haftaninonecikanlari",
+                            "tv072": "311422",
+                            "tv073": "BANNER",
+                            "tv097": "homepage_null"
+                        },
+                        "order": 5
+                    }
+                },
+                {
+                    "bannerEventKey": "Interview_bannerslider_ofissitili",
+                    "displayOrder": 30,
+                    "imageUrl": "https://cdn.dsmcdn.com/marketing/widget/haftaninonecikanlari/halhal_1605.jpg",
+                    "navigation": {
+                        "deeplink": "ty://?Gender=kadin&Category=halhal",
+                        "id": 5055,
+                        "landingTitle": "9/5 Ofis Stili",
+                        "navigationType": "DEEPLINK",
+                        "title": "9/5 Ofis Stili"
+                    },
+                    "subtitle": "Öne Çıkanlar",
+                    "title": "Halhal Modası",
+                    "marketing": {
+                        "delphoi": {
+                            "tv067": "Interview_bannerslider_ofissitili",
+                            "tv068": "ty://?Gender=kadin&Category=halhal",
+                            "tv069": "30",
+                            "tv070": "Interview_Singlebanner_haftaninonecikanlari",
+                            "tv072": "311422",
+                            "tv073": "BANNER",
+                            "tv097": "homepage_null"
+                        },
+                        "order": 6
+                    }
+                }
+            ],
+            "displayType": "SLIDER",
+            "eventKey": "Interview_Singlebanner_haftaninonecikanlari",
+            "id": 311422,
+            "type": "BANNER",
+            "widgetNavigation": {
+                "deeplink": "ty://?Search=trendyolmilla",
+                "id": 5041,
+                "landingTitle": "Tümü",
+                "navigationType": "DEEPLINK"
+            },
+            "displayCount": 2,
+            "displayOptions": {
+                "showProductPrice": true,
+                "showProductFavoredButton": true,
+                "showClearButton": false,
+                "showCountdown": false,
+                "showCountOnTitle": false,
+                "paddingTopBottom": 20,
+                "paddingRightLeft": 20
+            },
+            "startDate": "2020-07-01T12:25:00.000",
+            "endDate": "2024-01-08T12:25:00.000",
+            "marketing": {
+                "delphoi": {
+                    "tv068": "ty://?Search=trendyolmilla",
+                    "tv070": "Interview_Singlebanner_haftaninonecikanlari",
+                    "tv072": "311422",
+                    "tv073": "BANNER",
+                    "tv097": "homepage_null"
+                },
+                "order": 0
+            },
+            "width": 500,
+            "height": 500,
+            "refreshRequired": false
+        },
+        {
+            "bannerContents": [],
+            "displayType": "SLIDER",
+            "eventKey": "Interview_productSlider_satici",
+            "id": 311248,
+            "title": "En Çok Satanlar",
+            "type": "PRODUCT",
+            "displayCount": 2,
+            "displayOptions": {
+                "showProductPrice": true,
+                "showProductFavoredButton": true,
+                "showClearButton": false,
+                "showCountdown": false,
+                "showCountOnTitle": false,
+                "paddingTopBottom": 20,
+                "paddingRightLeft": 20
+            },
+            "startDate": "2020-07-01T12:35:00.000",
+            "endDate": "2025-12-27T12:35:00.000",
+            "marketing": {
+                "delphoi": {
+                    "tv070": "Interview_productSlider_satici",
+                    "tv072": "311248",
+                    "tv073": "PRODUCT",
+                    "tv097": "homepage_null"
+                },
+                "order": 0
+            },
+            "width": 0,
+            "height": 0,
+            "refreshRequired": false,
+            "serviceUrl": "/home-pages/products?searchUrl=/tum--urunler?satici%3D637&pid=0",
+            "fullServiceUrl": "https://searchpublic.trendyol.com/mobile-zeus-zeussearch-service/search/homepage-products?platform=IPHONE&build=216&gender=F&pid=0&deeplink=ty%253A%252F%252F%253FPage%253DSearch%2526MerchantIds%253D637&pid=0",
+            "fullServiceUrlWithPage": "https://searchpublic.trendyol.com/mobile-zeus-zeussearch-service/search/homepage-products-pageable?platform=IPHONE&build=216&gender=F&size=10&pid=0&deeplink=ty%253A%252F%252F%253FPage%253DSearch%2526MerchantIds%253D637&pageSize=10&widgetDisplayType=SLIDER&pid=0"
+        },
+        {
+            "bannerContents": [],
+            "displayType": "LISTING",
+            "eventKey": "Interview_productSlider_haftanincoksatanlari",
+            "id": 311423,
+            "title": "Haftanın En Çok Satanları 🔥",
+            "type": "PRODUCT",
+            "displayCount": 2,
+            "displayOptions": {
+                "showProductPrice": true,
+                "showProductFavoredButton": true,
+                "showClearButton": false,
+                "showCountdown": false,
+                "showCountOnTitle": false,
+                "paddingTopBottom": 20,
+                "paddingRightLeft": 20
+            },
+            "startDate": "2020-07-01T12:38:00.000",
+            "endDate": "2024-06-21T12:38:00.000",
+            "marketing": {
+                "delphoi": {
+                    "tv070": "Interview_productSlider_haftanincoksatanlari",
+                    "tv072": "311423",
+                    "tv073": "PRODUCT",
+                    "tv097": "homepage_null"
+                },
+                "order": 0
+            },
+            "width": 0,
+            "height": 0,
+            "refreshRequired": false,
+            "serviceUrl": "/home-pages/products?searchUrl=/sr?q%3Dtrendyolman%26qt%3Dtrendyolman%26st%3Dtrendyolman%26os%3D1&pid=0",
+            "fullServiceUrl": "https://searchpublic.trendyol.com/mobile-zeus-zeussearch-service/search/homepage-products?platform=IPHONE&build=216&gender=F&pid=0&deeplink=ty%253A%252F%252F%253FPage%253DSearch%2526Query%253Dtrendyolman&pid=0",
+            "fullServiceUrlWithPage": "https://searchpublic.trendyol.com/mobile-zeus-zeussearch-service/search/homepage-products-pageable?platform=IPHONE&build=216&gender=F&size=10&pid=0&deeplink=ty%253A%252F%252F%253FPage%253DSearch%2526Query%253Dtrendyolman&pageSize=20&widgetDisplayType=LISTING&pid=0"
+        }
+    ],
+    "pagination": {
+        "currentPage": 1,
+        "pageSize": 6,
+        "totalCount": 6
+    }
+}

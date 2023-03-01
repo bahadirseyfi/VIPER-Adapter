@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19455" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19454"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="ProductSliderCollectionCell" id="gTV-IL-0wX" customClass="ProductSliderCollectionCell" customModule="TYCase" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="100" height="200"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="100" height="200"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Product Description" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DhU-jX-nC7">
+                        <rect key="frame" x="4" y="141.5" width="92" height="24"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="BannerImage" translatesAutoresizingMaskIntoConstraints="NO" id="6lR-u8-67c">
+                        <rect key="frame" x="0.0" y="0.0" width="100" height="120"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Product Slider" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mEy-tt-qO9">
+                        <rect key="frame" x="4" y="124" width="92" height="13.5"/>
+                        <fontDescription key="fontDescription" type="boldSystem" pointSize="11"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="mEy-tt-qO9" firstAttribute="top" secondItem="6lR-u8-67c" secondAttribute="bottom" constant="4" id="0Wv-Rp-Vkf"/>
+                <constraint firstAttribute="trailing" secondItem="6lR-u8-67c" secondAttribute="trailing" id="53v-qA-Nl8"/>
+                <constraint firstItem="6lR-u8-67c" firstAttribute="height" secondItem="gTV-IL-0wX" secondAttribute="height" multiplier="0.6" id="FSR-dV-0po"/>
+                <constraint firstItem="6lR-u8-67c" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="GD1-LC-0ut"/>
+                <constraint firstAttribute="trailing" secondItem="mEy-tt-qO9" secondAttribute="trailing" constant="4" id="MoC-4v-5Dc"/>
+                <constraint firstAttribute="trailing" secondItem="DhU-jX-nC7" secondAttribute="trailing" constant="4" id="RCa-fW-mbJ"/>
+                <constraint firstItem="DhU-jX-nC7" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="4" id="UBd-1b-3YJ"/>
+                <constraint firstItem="DhU-jX-nC7" firstAttribute="top" secondItem="mEy-tt-qO9" secondAttribute="bottom" constant="4" id="XE8-xS-Idv"/>
+                <constraint firstItem="mEy-tt-qO9" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="4" id="fzU-Sp-gEn"/>
+                <constraint firstItem="6lR-u8-67c" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="vqF-Wa-ttL"/>
+            </constraints>
+            <size key="customSize" width="100" height="200"/>
+            <connections>
+                <outlet property="productDescription" destination="DhU-jX-nC7" id="jO5-08-h4K"/>
+                <outlet property="productSliderImage" destination="6lR-u8-67c" id="JD3-PM-VRG"/>
+                <outlet property="productTitle" destination="mEy-tt-qO9" id="hyn-Li-3zp"/>
+            </connections>
+            <point key="canvasLocation" x="168.11594202898553" y="152.00892857142856"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="BannerImage" width="1154" height="736"/>
+    </resources>
+</document>

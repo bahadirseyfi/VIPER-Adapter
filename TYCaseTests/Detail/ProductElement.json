@@ -1,0 +1,127 @@
+{
+        "boutiqueId": 605791,
+        "brandName": "TRENDYOL MAN",
+        "brandId": 15508,
+        "businessUnit": "PL Erkek",
+        "businessUnitData": {
+            "id": 100138,
+            "name": "PL Erkek",
+            "isSexualContent": false,
+            "isDigitalGoods": false
+        },
+        "categoryId": 603,
+        "categoryHierarchy": "Giyim/Atlet/İç Giyim",
+        "categoryName": "Atlet",
+        "contentId": 198950499,
+        "id": 198950499,
+        "rushDelivery": true,
+        "imageUrl": "https://cdn.dsmcdn.com/ty326/product/media/images/20220207/13/46216127/326354640/2/2_org_zoom.jpg",
+        "imageUrls": [
+            "https://cdn.dsmcdn.com/mnresize/600/900//ty326/product/media/images/20220207/13/46216127/326354640/2/2_org_zoom.jpg",
+            "https://cdn.dsmcdn.com/mnresize/600/900//ty325/product/media/images/20220207/13/46216127/326354640/3/3_org_zoom.jpg",
+            "https://cdn.dsmcdn.com/mnresize/600/900//ty326/product/media/images/20220207/13/46216127/326354640/4/4_org_zoom.jpg",
+            "https://cdn.dsmcdn.com/mnresize/600/900//ty326/product/media/images/20220207/13/46216127/326354640/5/5_org_zoom.jpg",
+            "https://cdn.dsmcdn.com/mnresize/600/900//ty326/product/media/images/20220207/13/46216127/326354640/6/6_org_zoom.jpg"
+        ],
+        "mainId": 172207627,
+        "marketPrice": 61.19,
+        "name": "Siyah Erkek Basic Oversize Atlet TMNSS22AL0069",
+        "promotions": [
+            "Sepette İndirimli"
+        ],
+        "salePrice": 99.99,
+        "mOriginalPrice": 99.99,
+        "stockStatus": 2,
+        "hasScheduledDelivery": false,
+        "discountedPriceInfo": "Sepette İndirimli",
+        "promotionList": [
+            {
+                "id": null,
+                "name": "Sepette İndirimli",
+                "shortname": "Sepette İndirimli",
+                "type": "BASKET",
+                "icon": "",
+                "colorCode": "",
+                "endsIn24Hours": false
+            },
+            {
+                "id": null,
+                "name": "24 Saatte Kargoda",
+                "shortname": "24 Saatte Kargoda",
+                "type": "RUSH_DELIVERY",
+                "icon": "",
+                "colorCode": "",
+                "endsIn24Hours": false
+            }
+        ],
+        "orderedPromotions": [
+            {
+                "id": null,
+                "name": "Hızlı Teslimat",
+                "shortname": "Hızlı Teslimat",
+                "type": "RUSH_DELIVERY",
+                "icon": "https://cdn.dsmcdn.com/mobile/promotionimages/ios/rushdelivery.png",
+                "colorCode": "#0BC15C",
+                "endsIn24Hours": false
+            }
+        ],
+        "promotionMessage": "Sepette İndirimli",
+        "merchantId": 968,
+        "averageRating": 4.5,
+        "ratingCount": 252,
+        "discountedPrice": 84.99,
+        "newDiscountedPrice": 84.99,
+        "stamps": [],
+        "variants": [
+            {
+                "campaignId": 605791,
+                "listingId": "df5a5bf32107a6f617cac64394ba48a2",
+                "name": "beden",
+                "variantId": 326354638,
+                "value": "S",
+                "price": {
+                    "salePrice": 99.99,
+                    "marketPrice": 61.19,
+                    "newDiscountedPrice": 84.99,
+                    "mOriginalPrice": 0,
+                    "discountedPriceInfo": ""
+                }
+            }
+        ],
+        "isDirectCartAdditionAvailable": false,
+        "marketing": {
+            "adjust": null,
+            "campaignsAnalytics": null,
+            "criteo": null,
+            "enhanced": {
+                "dimension140": "605791",
+                "dimension141": "0",
+                "dimension142": "",
+                "dimension145": "198950499",
+                "dimension146": "968",
+                "dimension147": "Normal Teslimat",
+                "dimension149": "Available",
+                "dimension152": "8",
+                "dimension155": "PL Erkek",
+                "dimension156": "Trendyol Collection - Yeni Sezon Fırsatları",
+                "dimension191": "Fashion"
+            },
+            "facebook": {
+                "id": "198950499",
+                "item_price": "99.99",
+                "product_boutiqueid": "605791",
+                "product_contentid": "198950499",
+                "product_itemnumber": "326354638",
+                "product_listingid": "df5a5bf32107a6f617cac64394ba48a2",
+                "product_merchantid": "968",
+                "quantity": "1"
+            },
+            "delphoi": {
+                "tv040": "198950499",
+                "tv067": "198950499",
+                "tv076": "968"
+            }
+        },
+        "isGroupColorOptionsActive": true,
+        "shouldDisableBuyingForDigitalGoods": false
+    }

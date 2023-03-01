@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19455" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19454"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="f7y-J9-cZ5" customClass="SlideView" customModule="TYCase" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="274" height="313"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="nmk-EI-yIi">
+                    <rect key="frame" x="0.0" y="0.0" width="274" height="313"/>
+                </imageView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="NeM-jf-dFI"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="NeM-jf-dFI" firstAttribute="bottom" secondItem="nmk-EI-yIi" secondAttribute="bottom" id="Ffy-aR-7Xi"/>
+                <constraint firstItem="nmk-EI-yIi" firstAttribute="top" secondItem="f7y-J9-cZ5" secondAttribute="top" id="Z6z-4q-dBk"/>
+                <constraint firstItem="nmk-EI-yIi" firstAttribute="leading" secondItem="NeM-jf-dFI" secondAttribute="leading" id="ZpR-cn-n5c"/>
+                <constraint firstItem="NeM-jf-dFI" firstAttribute="trailing" secondItem="nmk-EI-yIi" secondAttribute="trailing" id="gHU-z7-6sp"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="imageView" destination="nmk-EI-yIi" id="9SW-tc-X6X"/>
+            </connections>
+            <point key="canvasLocation" x="-31.884057971014496" y="124.21875"/>
+        </view>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
